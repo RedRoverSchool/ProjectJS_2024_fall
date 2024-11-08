@@ -17,8 +17,7 @@ Naming conventions:
 We shall use Camelcase for naming conventions: ```camelCase```
 
 Spec names:
-student should create the spec containing the name of the userstory (US): ```header.cy.js``` 
-
+student should create the spec containing the name of the userstory (US): ```header.cy.js```
 
 **Spec structure:**
 
